@@ -1,1 +1,1 @@
-# chat-Bidirecional
+Este projeto demonstra um chat bidirecional simples utilizando gRPC. Ele é ideal para praticar conceitos fundamentais da tecnologia gRPC, permitindo colocar em prática comunicação eficiente entre cliente e servidor.
